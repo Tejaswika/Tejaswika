@@ -7,4 +7,7 @@
 - ⚡ Ambitious, Hard working, Determined and Strong willed girl
 - 🙏Indian
 - 👩‍🎓Student
+- ![arsalanhub's github stats](https://github-readme-stats.vercel.app/api?username=tejaswika&show_icons=true&hide_border=true)
+
+
 
